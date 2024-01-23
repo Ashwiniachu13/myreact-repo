@@ -1,0 +1,22 @@
+.flex{
+  display:flex;
+  width: 100px;
+  height:200px;
+  
+  gap: 30px;
+  margin: 20px;
+  
+flex-direction:column;
+  float:left;
+}
+
+.aa{
+  color:black;
+  background-color:lightcoral;
+  padding: 30px;
+  float: left;
+  
+}
+.c{
+  flex-direction: row;
+  float:left;}
